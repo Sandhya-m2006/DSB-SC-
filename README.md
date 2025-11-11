@@ -75,10 +75,12 @@ xgrid
 ```
 
 Output Graph
+
 <img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/fac8771b-4a35-4538-a79d-9dfe77c89eb5" />
 
 
 Tablular Column
+
 <img width="623" height="666" alt="Screenshot 2025-11-11 103805" src="https://github.com/user-attachments/assets/c698aa0c-4de6-4b6d-a884-cef5d6bdcda2" />
 
 
